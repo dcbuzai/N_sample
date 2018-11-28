@@ -2,3 +2,4 @@
     <img src="{{ $user->tx('140') }}" alt="{{ $user->name }}" class="tx"/>
 </a>
 <h1>{{ $user->name }}</h1>
+<h1>{{ $user->email }}</h1>
